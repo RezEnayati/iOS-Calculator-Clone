@@ -52,7 +52,3 @@ struct CalculatorLogic {
     
     //Tuples: Something that allows us to store two interrlated data, of differant types together.
 }
-
-/*
- guarde let vs if let
- */
